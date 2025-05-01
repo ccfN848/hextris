@@ -46,5 +46,7 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
+This project is a deployment of [Hextris](https://github.com/Hextris/hextris), an open-source game licensed under GPL-3.0.
+
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
